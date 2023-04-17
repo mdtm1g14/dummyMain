@@ -1,3 +1,3 @@
 [submodule "sub"]
 	path = sub
-	url = git@github.com-mdtm1g14:mdtm1g14/dummySub.git
+	url = git@github.com:mdtm1g14/dummySub.git
